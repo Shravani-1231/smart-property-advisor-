@@ -1,0 +1,29 @@
+{
+  "admin@example.com": {
+    "name": "Admin User",
+    "email": "admin@example.com",
+    "password": "e0d6a25a4381559a82126940bf11722ff5f55ab4abe70b5028a4844b9f6e15e8e962d2aac88901b7c28893a5a99ff004",
+    "auth_type": "email",
+    "created_at": "2026-04-05T18:56:13.430390",
+    "last_login": null,
+    "is_active": true
+  },
+  "user@example.com": {
+    "name": "Regular User",
+    "email": "user@example.com",
+    "password": "d06994bf8b8aed517d52485691cb938e704c5d60e1054e5659388f74e5c857fb3f072a89919ff08ba86e054db5ebf7b1",
+    "auth_type": "email",
+    "created_at": "2026-04-05T18:56:13.506203",
+    "last_login": null,
+    "is_active": true
+  },
+  "demo@example.com": {
+    "name": "Demo User",
+    "email": "demo@example.com",
+    "password": "ba47a5e9e1bec028e23d574b7c13c2263cb7c66c5b0cc233600a38b87fb93ea1d01550bf282795d2b33597cf473e9528",
+    "auth_type": "email",
+    "created_at": "2026-04-05T18:56:13.580115",
+    "last_login": null,
+    "is_active": true
+  }
+}
